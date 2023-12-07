@@ -74,7 +74,9 @@ My GitHub page is http://github.com/JosemSandoval.
     Lab 8, part 1 was actually a favorite because we were coding a user's 
     sandwich ingredients. I was able to code a Mad Libs game, which consisted
     of 4 index arguments, 3 main ingredient ones, and print out a message with these 
-    words put in the blanks.
+    words put in the blanks. Being able to code small, fun games like these make
+    the labs more fun to code and complete. This helped out with other labs
+    as well due to knowing much more about arguments. 
 
 * Lab 4
 
